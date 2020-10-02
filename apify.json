@@ -1,0 +1,7 @@
+{
+	"name": "google-hotels-actor-finale",
+	"version": "1.0",
+	"buildTag": "latest",
+	"env": null,
+	"template": "project_empty"
+}
